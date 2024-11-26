@@ -1,0 +1,20 @@
+Student Name: Sorna Das
+Id: 20215103021
+Intake:47 & Section: 01
+Program: Coding Sprint [Intermidiate]
+Date: 27.11.24
+
+
+1. Introduction : Provide an overview of the approach used to address the problem.
+2. Data Processing: Outline the steps for handling missing values, feature enignerrring and scaling.
+3.Methodology: Explain the forecasting models implemented (eg: ARIMA, LSTM, Prophet), hyper parameter tuning and training approach.
+4. Results and Analysis: Present forecasting accuracy metrices such as MAE, RMSE or MAPE. Include visualizations (eg. actual vs predicted demand).
+-------------
+
+submit the complete codebase in zipped format to a google form or github repoistory link.
+include a readme file with instructions for runnig the code and reporducing the results.
+ensure the code is well documented with appropriate comments
+
+
+Report: SornaDas_TimeSeries_Report.pdf
+Code : SornaDas_TimeSeries_Code.zip
